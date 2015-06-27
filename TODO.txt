@@ -1,0 +1,12 @@
+Skat Anwendung
+
+- jabber server unabhängig
+- clients
+- jingle-voice chat / text chat
+
+typischer Ablauf:
+- Anwendung startet und verbindet sich mit jabber server
+- Jabber roster ist verfügbar.
+- auswählen der Spieler
+- starten des Spiels inklusive live chat
+- 
